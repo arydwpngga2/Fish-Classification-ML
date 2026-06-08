@@ -26,6 +26,7 @@ The dataset used is the A Large Scale Fish Dataset.
 Dataset:
 
 A Large Scale Fish Dataset
+Source: https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset
 
 Classes used in this project:
 
